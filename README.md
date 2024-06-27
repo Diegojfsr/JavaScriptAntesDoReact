@@ -1,12 +1,41 @@
 # O que estudar de JavaScript antes do React 
 _Um compilado prático sobre todas funcionalidades mais importantes do JavaScript para começar com o pé direito no React._
 
-> 📌   [Rocketseat. ]()  
-> 📌   [Link do Vídeo](https://youtu.be/37SwqREHRGI) 
+> 📌  <strong>Rocketseat</strong>  
+> 📌  <strong>Dicas de JavaScript</strong>  
+> 📌  <strong>Diego Fernandes</strong>  
+
 
 ### 🚦 Confira a grade completa
 
-> ☑️ [Introdução]()
+> ☑️ [Introdução]()  
+> ☑️ [Compiladores e bundlers]()  
+> ☑️ [Nullish Coalescing Operator]()  
+> ☑️ [Objetos]()  
+> ☑️ [Desestruturação]()  
+> ☑️ [Rest Operator]()  
+> ☑️ [Short Syntax]()  
+> ☑️ [Optional Chaining]()  
+> ☑️ [map()]()  
+> ☑️ [filter()]()  
+> ☑️ [every()]()  
+> ☑️ [some()]()  
+> ☑️ [find() e findIndex()]()  
+> ☑️ [reduce()]()  
+> ☑️ [Template Literals]()  
+> ☑️ [Promises]()  
+> ☑️ [ES Modules]()  
+
+
+
+
+### 🛠 Tecnologias Utilizadas
+- VS Code.
+- JavaScript.
+
+
+### 📑 Referências Utilizadas
+[Rocketseat](https://youtu.be/37SwqREHRGI)
 
 
 
