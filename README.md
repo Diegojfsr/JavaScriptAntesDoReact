@@ -1,8 +1,8 @@
 # O que estudar de JavaScript antes do React 
-_Um compilado prático sobre todas funcionalidades que acredito serem importantes entender do JavaScript para começar com o pé direito no React._
+_Um compilado prático sobre todas funcionalidades mais importantes do JavaScript para começar com o pé direito no React._
 
-> ☑️ [@Rocketseat. ]()
-> ☑️ [Link do Vídeo](https://youtu.be/37SwqREHRGI) 
+> 📌   [@Rocketseat. ]()  
+> 📌   [Link do Vídeo](https://youtu.be/37SwqREHRGI) 
 
 ### 🚦 Confira a grade completa
 
